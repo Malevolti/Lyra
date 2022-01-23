@@ -2,3 +2,5 @@
 case files/mid-profile-case-SLAsupported.lys
 *.stl
 *.lyt
+pcb/lyraLeft-Edge_Cuts.svg
+pcb/lyraLeft-User_Eco2.svg
