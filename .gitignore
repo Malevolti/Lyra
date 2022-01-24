@@ -4,3 +4,5 @@ case files/mid-profile-case-SLAsupported.lys
 *.lyt
 pcb/lyraLeft-Edge_Cuts.svg
 pcb/lyraLeft-User_Eco2.svg
+.DS_Store
+.DS_Store
