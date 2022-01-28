@@ -2511,7 +2511,7 @@
     (uuid 00000000-0000-0000-0000-0000613c0548)
     (property "Reference" "J1" (id 0) (at 37.0078 99.8982 0))
     (property "Value" "Computer/Power" (id 1) (at 37.0078 102.2096 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 38.1 121.92 0)
+    (property "Footprint" "Josh-Connectors:USB_C_TYPE-C-31-M-14" (id 2) (at 38.1 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 38.1 121.92 0)
@@ -5320,7 +5320,7 @@
       (reference "H25") (unit 1) (value "Logo") (footprint "gfx:SuperLyraLogo")
     )
     (path "/00000000-0000-0000-0000-0000613c0548"
-      (reference "J1") (unit 1) (value "Computer/Power") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "J1") (unit 1) (value "Computer/Power") (footprint "Josh-Connectors:USB_C_TYPE-C-31-M-14")
     )
     (path "/00000000-0000-0000-0000-000061403aef"
       (reference "J2") (unit 1) (value "AVR-ISP-6") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
